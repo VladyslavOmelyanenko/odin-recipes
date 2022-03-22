@@ -1,1 +1,1 @@
-# odin-recipes
+It's a learning project to create a website containing pages with different recipes.
